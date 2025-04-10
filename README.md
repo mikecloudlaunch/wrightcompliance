@@ -6,29 +6,7 @@ The Wright Compliance website is a professional platform designed for Belinda Wr
 
 ## Site Map
 
-\`\`\`
-Wright Compliance Website
-│
-├── Public Pages
-│   ├── Home (/)
-│   ├── About (/about)
-│   ├── Services (/services)
-│   ├── ePolicy Store (/epolicy-store)
-│   ├── Contact (/contact)
-│   └── Membership (/membership)
-│
-├── Authentication
-│   ├── Login (/membership/login)
-│   ├── Sign Up (/membership/signup)
-│   └── Forgot Password (/membership/forgot-password)
-│
-└── Member-Only Area (Protected)
-    ├── Dashboard (/membership/dashboard)
-    ├── Video Player (/membership/dashboard/watch)
-    ├── Progress Tracking (/membership/dashboard/progress)
-    ├── Billing Management (/membership/dashboard/billing)
-    └── Activity History (/membership/dashboard/activity)
-\`\`\`
+<image>
 
 ## Page Descriptions
 
