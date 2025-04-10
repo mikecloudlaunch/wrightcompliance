@@ -47,8 +47,14 @@ export default function RootLayout({ children }) {
                   <Link href="/services" className="nav-link">
                     Services
                   </Link>
+                  <Link href="/blog" className="nav-link">
+                    Blog
+                  </Link>
                   <Link href="/epolicy-store" className="nav-link">
                     ePolicy Store
+                  </Link>
+                  <Link href="/membership" className="nav-link">
+                    Membership
                   </Link>
                   <Link href="/contact" className="nav-link">
                     Contact
@@ -101,10 +107,22 @@ export default function RootLayout({ children }) {
                         Services
                       </Link>
                       <Link
+                        href="/blog"
+                        className="text-lg font-medium text-white/70 hover:text-white transition-colors"
+                      >
+                        Blog
+                      </Link>
+                      <Link
                         href="/epolicy-store"
                         className="text-lg font-medium text-white/70 hover:text-white transition-colors"
                       >
                         ePolicy Store
+                      </Link>
+                      <Link
+                        href="/membership"
+                        className="text-lg font-medium text-white/70 hover:text-white transition-colors"
+                      >
+                        Membership
                       </Link>
                       <Link
                         href="/contact"
@@ -159,8 +177,18 @@ export default function RootLayout({ children }) {
                           </Link>
                         </li>
                         <li>
+                          <Link href="/blog" className="text-white/60 hover:text-white transition-colors">
+                            Blog
+                          </Link>
+                        </li>
+                        <li>
                           <Link href="/epolicy-store" className="text-white/60 hover:text-white transition-colors">
                             ePolicy Store
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/membership" className="text-white/60 hover:text-white transition-colors">
+                            Membership
                           </Link>
                         </li>
                         <li>
