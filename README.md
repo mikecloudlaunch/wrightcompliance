@@ -6,7 +6,10 @@ The Wright Compliance website is a professional platform designed for Belinda Wr
 
 ## Site Map
 
-<image>
+
+![alt text](https://github.com/mikecloudlaunch/wrightcompliance/blob/main/wrightcompliancesitemap.png "Wright Compliance Sitemap")
+
+##
 
 ## Page Descriptions
 
